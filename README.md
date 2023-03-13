@@ -1,6 +1,6 @@
 - 👋 Hola soy @CarolinaECN
 - 👀 Me interesan el Big Data y el analisis de datos.
-- 🌱 Actualmente estoy aprendiendo Python (Pandas, Numpy, Matplotlib, Seaborn, Plotly, Dashboard), estadistica, modelos matematicos, MySql.
+- 🌱 Actualmente estoy aprendiendo Python (Pandas, Numpy, Matplotlib, Seaborn, Plotly, Dashboard), estadistica, modelos matematicos, MySql, PowerBI.
 - 💞️ Me gustaria incorporarme al equipo de Big Data, Data Lake o Datawarehouse, en una consultora o empresa final, para poner en practica mis conocimientos y poder continuar mi desarrollo. 
 - 📫 cecordo@gmail.com
 
